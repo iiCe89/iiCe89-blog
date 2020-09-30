@@ -47,18 +47,3 @@ You need to change repo URL to your own `repo` at delog/static/admin/config.yml,
 ### Managing Blog Posts in Netlify CMS
 * Once logged in you will find all the blog post listed here.
 * You can create, edit, update and delete like any CMS
-
-### Editing Meta Data
-Goto `gatsby-config.js`. Here you can edit following details
-* Title
-* Description
-* Site URL
-* Homepage Title
-* Homepage Description
-* W3Layouts Contact form domain verification key
-  * Follow the steps [W3Layouts Contact form](https://w3layouts.com/articles/introducing-contact-forms-for-static-websites/) instructions and grab domain verification key (for example: xxxxxxxxxxxxxxx_Domain_verify) then past it as value for [w3l_dom_key](https://github.com/W3Layouts/gatsby-starter-delog/blob/109b93b42385238da52cf46e8e80d8a77730e42d/gatsby-config.js#L18) in `gatsby-config.js` file in your project.
-* and google analytics tracking id
-
-I hope you build a great website with Delog. If you like it please spread the word, Feel free to contribute and raise a pull request :)
-
-For issues,feedback on enhancement or sharing your new awesome website built with delog. [Create New Issue](https://github.com/W3Layouts/delog/issues/new) Here
