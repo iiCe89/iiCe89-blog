@@ -11,3 +11,10 @@ Install this starter locally:
 >`gatsby new gatsby-starter-delog https://github.com/W3Layouts/gatsby-starter-delog`
 
 Instructions also available at W3Layouts [Delog Launch Article](https://w3layouts.com/articles/delog-gatsby-starter-netlify-cms/).
+
+## Features
+- Built with GatsbyJS and Netlify CMS
+- Option to Add, Edit, Update and Delete posts via Netlify CMS
+- SEO friendly - Option to Add meta description
+- In-built contact form powered by [W3Layouts](https://w3layouts.com) 
+- Comes with dark mode
