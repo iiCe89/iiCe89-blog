@@ -62,13 +62,3 @@ Goto `gatsby-config.js`. Here you can edit following details
 I hope you build a great website with Delog. If you like it please spread the word, Feel free to contribute and raise a pull request :)
 
 For issues,feedback on enhancement or sharing your new awesome website built with delog. [Create New Issue](https://github.com/W3Layouts/delog/issues/new) Here
-
-### Upcoming Features Roadmap
-- [ ] Pagination for Blog
-- [ ] Social Icons
-- [x] Dark Mode
-
-## Change log
-- Adding support for GatsbyJS Increment builds with Netlify (April 28, 2020)
-- Dark Mode (April 21, 2020)
-- Official Launch (March 14, 2020)
